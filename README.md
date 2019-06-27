@@ -1,5 +1,5 @@
 # Snaker-Game
-JS贪吃蛇小游戏
+JS贪吃蛇小游戏 by Sjj1024
 
 1. 下载eat-snake.html及eat-snake.js
 2. 确保eat-snake.html引用的eat-snake.js路径是正确的
