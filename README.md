@@ -1,4 +1,4 @@
-# eatSnake  [在线演示](http://htmlpreview.github.io/?https://github.com/DMQ/eatSnake/master/snake.html)
+# Snaker-Game
 JS贪吃蛇小游戏
 
 1. 下载eat-snake.html及eat-snake.js
